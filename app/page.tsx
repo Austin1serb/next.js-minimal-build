@@ -35,7 +35,7 @@ export default function Home() {
 					Open <code>http://localhost:3000</code>
 				</li>
 				<li>
-					Edit <code>public/image.jpg</code> without changing the filename, for example crop it or apply a visible filter
+					Edit <code>public/image.jpg</code> without changing the filename, for example crop it or apply a visible filter and refresh the page.
 				</li>
 				<li>Refresh the page</li>
 			</ol>
